@@ -6,7 +6,7 @@
 
 <div align="center">
 
-🎓 Estudiante de Ingeniería en Sistemas Computacionales – 6° semestre  
+🎓 Estudiante de Ingeniería en Sistemas Computacionales – 8° semestre  
 📊 Especialización en Ciencia de Datos – Oracle Next Education  
 🤖 Apasionado por la automatización, la inteligencia artificial y los proyectos con propósito real  
 🚀 Desarrollador curioso, autodidacta y en constante evolución  
