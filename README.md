@@ -6,12 +6,12 @@
 
 <div align="center">
 
-🎓 Estudiante de Ingeniería en Sistemas Computacionales – 8° semestre  
+🎓 Estudiante de Ingeniería en Sistemas Computacionales – 9° semestre  
 📊 Especialización en Ciencia de Datos – Oracle Next Education  
 🤖 Apasionado por la automatización, la inteligencia artificial y los proyectos con propósito real  
 🚀 Desarrollador curioso, autodidacta y en constante evolución  
 
-🎓 Computer Systems Engineering Student – 6th Semester  
+🎓 Computer Systems Engineering Student – 9th Semester  
 📊 Data Science specialization – Oracle Next Education  
 🤖 Passionate about automation, AI, and building meaningful tech  
 🚀 Curious, self-taught developer, always evolving  
